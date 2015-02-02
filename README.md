@@ -6,15 +6,10 @@ This means it automaticly switches the IME to the last setting you used in the a
 
 Example:
 
-The default setting is SwiftKey  
-<p><img src="https://raw.githubusercontent.com/Eun/RememberIME/res/ex1.png" align="left" height="640" width="360" ></p>
-
-
-Choosing Hacker's Keyboard in ConnectBot  
-<p><img src="https://raw.githubusercontent.com/Eun/RememberIME/res/ex2.png" align="left" height="640" width="360" ></p>
-
-All other apps will change back to SwiftKey or use their own (if specified) setting  
-<p><img src="https://raw.githubusercontent.com/Eun/RememberIME/res/ex3.png" align="left" height="640" width="360" ></p>
+The default setting is SwiftKey  Choosing Hacker's Keyboard in ConnectBot   All other apps will change back to SwiftKey or use their own (if specified) setting  
+<img src="https://raw.githubusercontent.com/Eun/RememberIME/res/ex1.png" align="left" height="640" width="360" >
+<img src="https://raw.githubusercontent.com/Eun/RememberIME/res/ex2.png" align="left" height="640" width="360" >
+<img src="https://raw.githubusercontent.com/Eun/RememberIME/res/ex3.png" align="left" height="640" width="360" >
 
 [This Module on the Repository](http://repo.xposed.info/module/eun.xposed.rememberime)
 
