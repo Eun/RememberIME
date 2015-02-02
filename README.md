@@ -9,7 +9,7 @@ This means it automaticly switches the IME to the last setting you used in the a
 
 [This Module on the Repository](http://repo.xposed.info/module/eun.xposed.rememberime)
 
-[Discussion thread](http://forum.xda-developers.com/showthread.php?t=)
+[Discussion thread](http://forum.xda-developers.com/xposed/modules/rememberime-automatically-change-t3019653)
 
 CHANGELOG
 =========
