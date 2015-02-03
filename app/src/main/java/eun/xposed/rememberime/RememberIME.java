@@ -210,7 +210,12 @@ public class RememberIME implements IXposedHookZygoteInit {
                 if (DEBUG) {
                     log("Set Input to " + nextComponent.flattenToShortString() + "=" + newId + " (" + mHookContext + "[" + System.identityHashCode(mHookContext) + "])");
                 }
-                mImm.setInputMethod(null, newId);
+                try {
+                    mImm.setInputMethod(null, newId);
+                } catch (Exception e)
+                {
+
+                }
             }
         });
     }
