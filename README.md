@@ -13,5 +13,8 @@ This means it automaticly switches the IME to the last setting you used in the a
 
 CHANGELOG
 =========
+* 1.1
+  * Fixed invalid IME setting error
+
 * 1.0
   * Release
